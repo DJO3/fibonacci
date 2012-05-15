@@ -23,8 +23,7 @@ Instructions:
 desired digit in the sequence.
 3) To recursively compute the value of Fibonacci, use f2(n), where n is the 
 desired digit in the sequence.
-4) To determine whether each program returns the same output for n, run equal
-(n).
+4) To determine whether each program returns the same output for n, run qa(n).
 
 Notes:
 
