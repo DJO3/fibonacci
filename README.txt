@@ -1,5 +1,5 @@
 This is a simple exercise in Python that helps to highlight some of the basics 
-of the language. 
+of the language. It was written with Python 2.5.4.
 
 Background:
 
