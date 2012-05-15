@@ -7,7 +7,7 @@ def f1(n):
     while i<=n:
         terms.append(terms[-1]+terms[-2])
         i = i + 1
-        #print (i-1), '=', terms
+        print (i-1), '=', terms
     print  "Digit #%s within Fibonacci is " %n + str(terms[-2]) 
 
 ## Recursively produces corresponding nth term in fibonacci
